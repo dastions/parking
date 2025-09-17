@@ -1,0 +1,27 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f0fdf4"/>
+  
+  <!-- Control panel -->
+  <rect x="150" y="100" width="100" height="80" fill="#1e40af" rx="8"/>
+  <rect x="160" y="110" width="80" height="20" fill="#3b82f6" rx="3"/>
+  <rect x="160" y="140" width="80" height="15" fill="#60a5fa" rx="2"/>
+  <rect x="160" y="160" width="80" height="15" fill="#60a5fa" rx="2"/>
+  
+  <!-- Mobile device -->
+  <rect x="280" y="80" width="60" height="100" fill="#374151" rx="8"/>
+  <rect x="285" y="90" width="50" height="80" fill="#1f2937" rx="4"/>
+  <circle cx="310" cy="95" r="3" fill="#22c55e"/>
+  
+  <!-- Connection lines -->
+  <path d="M250 140 Q265 120 280 130" stroke="#22c55e" stroke-width="3" fill="none"/>
+  
+  <!-- Cloud -->
+  <ellipse cx="200" cy="50" rx="40" ry="20" fill="#e5e7eb"/>
+  <ellipse cx="190" cy="45" rx="25" ry="15" fill="#e5e7eb"/>
+  <ellipse cx="210" cy="45" rx="25" ry="15" fill="#e5e7eb"/>
+  
+  <!-- Text -->
+  <text x="200" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial" font-size="16" font-weight="bold">Control Remoto</text>
+  <text x="200" y="250" text-anchor="middle" fill="#6b7280" font-family="Arial" font-size="12">Gestión desde cualquier lugar</text>
+</svg>

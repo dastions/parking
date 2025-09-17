@@ -2,14 +2,26 @@
 
 Una landing page moderna y responsive desarrollada con Vue.js y TailwindCSS para promocionar la solución integral de control de accesos de DASTIONS.
 
-## 🚀 Características
+## 🎨 Características Visuales
 
+- **Imágenes SVG Personalizadas**: Ilustraciones técnicas creadas específicamente para cada sección
 - **Diseño Responsive**: Optimizado para móviles, tablets y desktop
 - **Moderno y Profesional**: Colores azul oscuro, gris y toques verdes
 - **Animaciones Suaves**: Implementadas con TailwindCSS y CSS animations
 - **SEO Optimizado**: Meta tags y estructura optimizada para buscadores
 - **Formulario de Captación**: Con validación básica para generar leads
 - **Mobile-First**: Diseño pensado primero para dispositivos móviles
+
+## 📸 Imágenes Incluidas
+
+El proyecto incluye imágenes SVG personalizadas en la carpeta `public/`:
+
+- **`barrier-system.svg`**: Ilustración del sistema de barrera electromecánica
+- **`lpr-system.svg`**: Sistema de reconocimiento de matrículas (LPR)
+- **`remote-control.svg`**: Control remoto y gestión móvil
+- **`industrial-access.svg`**: Aplicación industrial del sistema
+
+Estas imágenes están optimizadas para web y se adaptan perfectamente al diseño responsive.
 
 ## 📋 Secciones Incluidas
 

@@ -1,0 +1,24 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f0f9ff"/>
+  
+  <!-- Camera -->
+  <rect x="180" y="80" width="40" height="30" fill="#1e40af" rx="5"/>
+  <circle cx="200" cy="95" r="8" fill="#1f2937"/>
+  
+  <!-- License plate -->
+  <rect x="150" y="200" width="100" height="40" fill="#ffffff" stroke="#374151" stroke-width="2" rx="3"/>
+  <text x="200" y="225" text-anchor="middle" fill="#1f2937" font-family="Arial" font-size="14" font-weight="bold">1234 ABC</text>
+  
+  <!-- Vehicle -->
+  <rect x="120" y="180" width="160" height="60" fill="#3b82f6" rx="8"/>
+  <circle cx="140" cy="250" r="12" fill="#374151"/>
+  <circle cx="260" cy="250" r="12" fill="#374151"/>
+  
+  <!-- Recognition lines -->
+  <line x1="200" y1="110" x2="200" y2="200" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Text -->
+  <text x="200" y="40" text-anchor="middle" fill="#1f2937" font-family="Arial" font-size="16" font-weight="bold">Sistema LPR</text>
+  <text x="200" y="60" text-anchor="middle" fill="#6b7280" font-family="Arial" font-size="12">Reconocimiento Automático de Matrículas</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#fefce8"/>
+  
+  <!-- Industrial building -->
+  <rect x="100" y="120" width="200" height="120" fill="#6b7280" rx="5"/>
+  <rect x="120" y="140" width="40" height="30" fill="#1e40af" rx="2"/>
+  <rect x="180" y="140" width="40" height="30" fill="#1e40af" rx="2"/>
+  <rect x="240" y="140" width="40" height="30" fill="#1e40af" rx="2"/>
+  
+  <!-- Barrier -->
+  <rect x="150" y="200" width="100" height="40" fill="#374151" rx="5"/>
+  <rect x="200" y="120" width="4" height="80" fill="#1f2937"/>
+  <rect x="180" y="120" width="60" height="8" fill="#dc2626" rx="2"/>
+  
+  <!-- Vehicles -->
+  <rect x="50" y="200" width="60" height="30" fill="#3b82f6" rx="5"/>
+  <rect x="290" y="200" width="60" height="30" fill="#3b82f6" rx="5"/>
+  
+  <!-- Text -->
+  <text x="200" y="50" text-anchor="middle" fill="#1f2937" font-family="Arial" font-size="16" font-weight="bold">Instalación Industrial</text>
+  <text x="200" y="70" text-anchor="middle" fill="#6b7280" font-family="Arial" font-size="12">Control de Acceso para Empresas</text>
+</svg>
