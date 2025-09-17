@@ -153,7 +153,7 @@ El proyecto incluye un workflow de GitHub Actions que despliega automáticamente
    ```
 
 3. **El workflow se ejecutará automáticamente** y desplegará la página en:
-   `https://[tu-usuario].github.io/[nombre-repositorio]`
+   `https://dastions.github.io/parking/`
 
 4. **Para futuras actualizaciones**, simplemente haz push a la rama `main`:
    ```bash
